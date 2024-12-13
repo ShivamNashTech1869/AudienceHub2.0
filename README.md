@@ -16,4 +16,5 @@ Before running the automation scripts, ensure you have the following installed:
 To clone the repository, run the following command and run scritp by directly feature file or testrunner
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/ShivamNashTech1869/AudienceHub2.0.git
+
