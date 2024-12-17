@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="AH2.0-WebAutomation" />
+        <module name="0-WebAutomation" />
       </profile>
     </annotationProcessing>
   </component>
